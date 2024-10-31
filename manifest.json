@@ -1,0 +1,10 @@
+{
+  "Id": "WebSwimming",
+  "AssemblyPath": "WebSwimming.dll",
+  "PackPath": "WebSwimming.pck",
+  "Metadata": {
+      "Name": "WebSwimming",
+      "Author": "Nowaha",
+      "Version": "1.0.0"
+  }
+}
